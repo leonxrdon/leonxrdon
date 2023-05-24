@@ -4,13 +4,14 @@
 # 💫 Software Developer:
 
 Software Developer Jr. with experience developing web and mobile applications. Motivated, adaptable and with abilities to solve complex problems. Committed to continuous learning and professional growth.
+</br>
 [![](https://visitcount.itsvg.in/api?id=leonxrdon&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-🌍 Madrid - Spain
-🧠  42 Madrid Student
-🖥️  See my portfolio at [leonardonarvaez.com](https://leonardonarvaez.com)
-🔭 developing the project [RTBR](https://rtbr.online)
-📫  You can contact me at [mail](mailto:leonxrdo.n@gmail.com)
+* 🌍 Madrid - Spain
+* 🧠 42 Madrid Student
+* 🖥️ See my portfolio at [leonardonarvaez.com](https://leonardonarvaez.com)
+* 🔭 Developing the project [RTBR](https://rtbr.online)
+* 📫 You can contact me at [mail](mailto:leonxrdo.n@gmail.com)
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonxrdo-narvaez)
