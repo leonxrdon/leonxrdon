@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonxrdo-narvaez)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonxrdo.n) 
 [![Facebook](https://img.shields.io/badge/facebook-%2331A8FF.svg?logo=facebook&logoColor=white)](https://facebook.com/leopxndxlml)
+
+
 Software Developer Jr. with experience developing web and mobile applications. Motivated, adaptable and with abilities to solve complex problems. Committed to continuous learning and professional growth.
 * 🌍 Madrid - Spain
 * 🧠 42 Madrid Student
@@ -34,6 +36,7 @@ Software Developer Jr. with experience developing web and mobile applications. M
 
 # 🚀 Review de Tudo BR:
 Web application designed for the gamer world to show the performance of PC Hardware.
+
 ![https://github.com/leonxrdon](https://github.com/leonxrdon/leonxrdon/blob/main/rtbr_project.png?raw=true)
 
 
