@@ -3,8 +3,15 @@
 
 ![https://github.com/leonxrdon](https://github.com/leonxrdon/leonxrdon/blob/main/LeoDevGithub.png)
 # 💫 Software Developer:
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonxrdo-narvaez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonxrdo.n) 
+[![Facebook](https://img.shields.io/badge/facebook-%2331A8FF.svg?logo=facebook&logoColor=white)](https://facebook.com/leopxndxlml)
 Software Developer Jr. with experience developing web and mobile applications. Motivated, adaptable and with abilities to solve complex problems. Committed to continuous learning and professional growth.
+* 🌍 Madrid - Spain
+* 🧠 42 Madrid Student
+* 🖥️ See my portfolio at [leonardonarvaez.com](https://leonardonarvaez.com)
+* 🔭 Developing the project [RTBR](https://rtbr.online)
+* 📫 You can contact me at [mail](mailto:leonxrdo.n@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=leonxrdon&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
@@ -24,20 +31,10 @@ Software Developer Jr. with experience developing web and mobile applications. M
 
 
 ---
-* 🌍 Madrid - Spain
-* 🧠 42 Madrid Student
-* 🖥️ See my portfolio at [leonardonarvaez.com](https://leonardonarvaez.com)
-* 🔭 Developing the project [RTBR](https://rtbr.online)
-* 📫 You can contact me at [mail](mailto:leonxrdo.n@gmail.com)
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonxrdo-narvaez)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonxrdo.n) 
-[![Facebook](https://img.shields.io/badge/facebook-%2331A8FF.svg?logo=facebook&logoColor=white)](https://facebook.com/leopxndxlml)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leonxrdon&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=leonxrdon&theme=algolia&hide_border=true)
+# 🚀 Review de Tudo BR:
+Web application designed for the gamer world to show the performance of PC Hardware.
+![https://github.com/leonxrdon](https://github.com/leonxrdon/leonxrdon/blob/main/rtbr_project.png?raw=true)
 
 
 ---
