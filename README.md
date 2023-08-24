@@ -16,7 +16,6 @@ Software Developer Jr. with experience developing web and mobile applications. M
 * 🔭 Developing the project [RTBR](https://rtbr.online)
 * 📫 You can contact me at [mail](mailto:leonxrdo.n@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=leonxrdon&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 # 💻 Tech Stack:
