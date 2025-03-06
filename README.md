@@ -11,6 +11,7 @@
 
 Software Developer Jr. with experience developing web and mobile applications. Motivated, adaptable and with abilities to solve complex problems. Committed to continuous learning and professional growth.
 * 🌍 Madrid - Spain
+* 📒🤖 Student Master Artificial Intelligence - Tajamar
 * 🧠 42 Madrid Student
 * 🖥️ See my portfolio at [leonardonarvaez.com](https://leonardonarvaez.com)
 * 🔭 Developing the project [RTBR](https://rtbr.online)
